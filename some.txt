@@ -1,0 +1,31 @@
+<dl>
+                <dt>
+                    <span class="post">Frontend</span>
+                    <span class="company">Viarune</span>
+                    <div>
+                        <span class="company_location">Tomsk, Russia</span>
+                        <span class="time_range"></span>
+                    </div>
+                </dt>
+                <dd>
+                    Developed and maintained responsive, user-friendly
+                    landing pages according to the provided design mockups
+                </dd>
+                <dd>
+                    Created interactive user interfaces with Vue.js
+                    framework utilizing Vue Router for navigation,
+                    Pinia for state management and SCSS preprocessor for styling
+                </dd>
+                <dd>
+                    Employed Prettier, ESLint and other tools to streamline
+                    and standardize development workflow across the team for multiple projects
+                </dd>
+                <dd>
+                    Developed core functionality for online compiler, which involved client-side
+                    logic, authentication, and real-time user updates using Vue.js
+                </dd>
+                <dd>
+                    Integrated Yandex Maps API and Chart.js into a custom
+                    monitoring dashboard, enabling data-driven and real-time visibility of key metrics
+                </dd>
+            </dl>
